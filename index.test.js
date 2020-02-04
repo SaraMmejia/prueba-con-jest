@@ -1,4 +1,4 @@
-const index = require("./index");
+const index = require("./subtrac");
 it ("should show Buzz when 25 is incerted",()=>{
     expect (index(25)).toBe("Buzz")
 });
